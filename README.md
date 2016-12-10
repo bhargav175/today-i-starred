@@ -14,3 +14,4 @@
 [You-dont-know-JS](https://github.com/getify/You-Dont-Know-JS)
 [Core-decorators](https://github.com/jayphelps/core-decorators.js)
 [React-workshop](https://github.com/mzabriskie/react-workshop)
+[Javascript30](https://github.com/wesbos/JavaScript30)
