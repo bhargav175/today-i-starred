@@ -11,7 +11,15 @@
 **10 Dec 2016**
 
 [React-most](https://github.com/reactive-react/react-most)
+
 [You-dont-know-JS](https://github.com/getify/You-Dont-Know-JS)
+
 [Core-decorators](https://github.com/jayphelps/core-decorators.js)
+
 [React-workshop](https://github.com/mzabriskie/react-workshop)
+
 [Javascript30](https://github.com/wesbos/JavaScript30)
+
+**11 Dec 2016**
+
+[RxJs](https://github.com/Reactive-Extensions/RxJS)
