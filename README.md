@@ -23,5 +23,6 @@
 **11 Dec 2016**
 
 [RxJs](https://github.com/Reactive-Extensions/RxJS)
-** 12 Dec 2016 **
+
+**12 Dec 2016 **
 [Tape JS](https://github.com/substack/tape)
