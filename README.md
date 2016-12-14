@@ -35,3 +35,7 @@
 [React-form](https://github.com/tannerlinsley/react-form)
 
 [Aphrodite](https://github.com/Khan/aphrodite)
+
+** 14 Dec 2016 **
+
+[LoadJS](https://github.com/muicss/loadjs)
