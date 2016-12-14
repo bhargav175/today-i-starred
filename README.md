@@ -20,9 +20,11 @@
 
 [Javascript30](https://github.com/wesbos/JavaScript30)
 
+
 **11 Dec 2016**
 
 [RxJs](https://github.com/Reactive-Extensions/RxJS)
+
 
 **12 Dec 2016 **
 
@@ -36,6 +38,8 @@
 [React-form](https://github.com/tannerlinsley/react-form)
 
 [Aphrodite](https://github.com/Khan/aphrodite)
+
+
 
 ** 14 Dec 2016 **
 
