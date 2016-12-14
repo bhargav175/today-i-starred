@@ -1,6 +1,6 @@
 # today-i-starred
 
-**9 Dec 2016****
+**9 Dec 2016**
 
 [Avajs](https://github.com/avajs/ava) - Javascript test runner
 
@@ -29,6 +29,7 @@
 [Tape JS](https://github.com/substack/tape)
 
 [Learning PWA] (https://github.com/ragingwind/learning-pwa)
+
 
 **13 Dec 2016 **
 
