@@ -46,3 +46,7 @@
 [LoadJS](https://github.com/muicss/loadjs)
 
 [Gulp starter](https://github.com/vigetlabs/gulp-starter)
+
+** 15 Dec 2016**
+
+[React-fix-it](https://github.com/MicheleBertoli/react-fix-it)
